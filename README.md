@@ -1,15 +1,12 @@
-# Skool
-discord.gg/skool
-#### A professional game and proxy site where you can bypass any school or work restrictions.
+# learn
+learning!
+te where you can bypass any school or work restrictions.
 ----
 ![Discord](https://img.shields.io/discord/950407933408198717?label=Discord&style=for-the-badge)
 ![Commit activity](https://img.shields.io/github/commit-activity/w/Skoolgq/skoolgq.github.io?style=for-the-badge)
 
 ## Links
-* https://skool.lol
-* https://skool.gay
-* https://peeloffyour.skin
-* Join our [Discord](https://discord.gg/skool) for more...
+
 
 ## Quick Deploy
 You can use any of these buttons to deploy Skool!<br>
